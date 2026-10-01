@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,country,signup_date,customer_status
+1001,Arun Kumar,customer1001@example.com,Bengaluru,India,2022-04-18,Active
+1002,Priya Iyer,customer1002@example.com,Mumbai,India,2023-08-08,Active
+1003,Ravi Patel,customer1003@example.com,Chennai,India,2024-12-22,Active
+1004,Meera Pillai,customer1004@example.com,Delhi,India,2023-07-14,Inactive
+1005,Karthik Bose,customer1005@example.com,Hyderabad,India,2025-05-11,Active
+1006,Anita Mishra,customer1006@example.com,Pune,India,2025-09-21,Active
+1007,Vikram Menon,customer1007@example.com,Kolkata,India,2022-04-26,Active
+1008,Neha Nair,customer1008@example.com,Ahmedabad,India,2022-04-25,Inactive
+1009,Suresh Das,customer1009@example.com,Bengaluru,India,2022-10-09,Active
+1010,Divya Joshi,customer1010@example.com,Mumbai,India,2025-05-30,Active

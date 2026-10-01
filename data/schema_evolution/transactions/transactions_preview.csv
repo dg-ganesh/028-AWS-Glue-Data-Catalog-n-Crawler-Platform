@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,product_category,amount,payment_method
+50001,1024,2026-09-24,Electronics,22110.37,Net Banking
+50002,1048,2026-06-03,Electronics,3050.24,Debit Card
+50003,1004,2025-01-16,Home,12682.15,Net Banking
+50004,1072,2026-09-19,Fashion,9163.39,Net Banking
+50005,1019,2025-12-07,Fashion,21044.75,Debit Card
+50006,1087,2025-12-30,Home,19603.68,Net Banking
+50007,1069,2026-02-27,Home,6634.5,Debit Card
+50008,1040,2026-01-29,Grocery,4374.46,UPI
+50009,1005,2025-04-27,Home,7636.07,Net Banking
+50010,1084,2026-04-14,Home,17609.62,Debit Card
